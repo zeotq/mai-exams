@@ -3,6 +3,7 @@
 
 |**Name**|**Link**|
 |-|-|
+Методичка Зайцева В.Е | [Yandex Docs](https://disk.yandex.ru/i/nSYjE4tQcjM85A)
 Вопросы | [Перечень вопросов](./ComputerScience_AK/questions.md)
 Задачи | [Notion с задачами](https://mewing-wealth-995.notion.site/edbcde1ca9654e48997974c1a26d5a95)
 Нормальные ответы на вопросы<br>Скрины конспекта|[Диск](https://drive.google.com/drive/folders/1peOLZ1V0QrJ_q9kDd6keibWqghscPxq6)
