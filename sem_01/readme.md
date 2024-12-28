@@ -11,6 +11,7 @@
 Ответы на некоторые вопросы<br>Примеры билетов<br>[1-16], [39-44], [53-54]|[Диск](https://drive.google.com/drive/folders/1peOLZ1V0QrJ_q9kDd6keibWqghscPxq6)
 Архитектура конспект|[docx (Google Drive)](https://docs.google.com/document/d/1b6qIc2by3s8LK8R-wTHCaknTOtefxqqx/edit)
 Архитектура конспект (other)|[PDF (Yandex Docs)](https://disk.yandex.ru/i/w6jv_CE20HFeOQ)
+Float | https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%87%D0%B8%D1%81%D0%B5%D0%BB
 
 # Линейная алгебра
 todo
